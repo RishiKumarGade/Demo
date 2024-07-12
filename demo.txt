@@ -1,0 +1,4 @@
+MONGO_URI=mongodb+srv://tonystark:captainamerica@cobalt.uch0apg.mongodb.net/
+CLOUD_NAME=dvudkkxl4
+CLOUD_API=894523911118865
+CLOUD_API_SECRET=-j6SGO1YAi54GJDCYRp3KDJ-CJo
